@@ -1,0 +1,22 @@
+{
+  "name": "lab-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcodemichelis/lab-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcodemichelis/lab-javascript/issues"
+  },
+  "homepage": "https://github.com/marcodemichelis/lab-javascript#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}

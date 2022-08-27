@@ -1,3 +1,6 @@
+const canFetch = typeof globalThis.fetch === 'function';
+console.log(canFetch);
+
 const fetch = require("node-fetch");
 
 console.log("####### Fetch and Promises #######");
